@@ -1,5 +1,3 @@
-console.log("hello");
-
 
 let sentence = "Bu yazıyı komple ters çevirmek istiyorum.";
 
